@@ -1,0 +1,1 @@
+# imagenetv2-threshold0.7-format-val
